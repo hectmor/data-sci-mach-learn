@@ -10,6 +10,7 @@ The topics analyzed here are:
 - Decisions between services for a Telecommunications provider.
 - CO2 emissions.
 - Cancer tumors decision.
+- Characterization of the flower species.
 
 The Machine Learning algorithms during the projects used were:
 
