@@ -1,5 +1,5 @@
-# data-sci-mach-learn
-Data science and machine learning project notebooks. 
+# mach-learn
+Machine learning project notebooks. 
 Here we present the notebooks related to my data science and machine learning projects.  
 The topics analyzed here are:
 - Drugs decision for the doctor. 
